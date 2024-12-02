@@ -1,7 +1,7 @@
-# myITDepartmentApp React App by Luis Gornes.
+# myITDepartmentApp React.js Site by Luis Gornes.
 
 This is a final project submission, 
-to build a react website/recreating my college IT department Website. This project was bootstrapped with React.
+to build a react website/recreating my college IT department Website. This project was bootstrapped with React.js
 Creating a Home page, About us, Programs, Faculty and Contact us page with call to action, with User friendly interface & Professional 
 Look and feel. Programing this site to adapt to any device making it fully responsive and display correctly on desktops, tablets, and smartphones. 
 Used appropriate layout techniques (flexbox, grid) to create flexible and adaptable layouts, Employing media queries effectively to adjust content and styles based on screen size.
@@ -28,7 +28,7 @@ cd myITDepartmentApp
 npm install
 ```
 
-### Step 4: Run wesbite and view locally
+### Step 4: Run wesbite and view locally!
 
 ```
 npm start
