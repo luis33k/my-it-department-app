@@ -37,6 +37,8 @@ npm start
 
 After few secondes to few minutes my site app will be hosted locally remember to RUN "npm install" then "npm start" to view properly. 🚀
 
+---
+
 # Report: Redesigning My College IT Department Website with React.js and Node.js
 
 ## Project Overview
