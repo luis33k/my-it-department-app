@@ -34,4 +34,4 @@ npm install
 npm start
 ```
 
-After few secondes to few minutes my site will be deployed remeber to start and stop if changes made 🚀
+After few secondes to few minutes my site will be deployed remeber to RUN "npm install" then "npm start" to view properly. 🚀
