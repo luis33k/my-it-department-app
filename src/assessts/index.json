@@ -1,0 +1,62 @@
+{
+  "programs": [
+    {
+      "id": "1",
+      "src": "./imgs/programs0.png",
+      "title": "Computer Information Technology",
+      "description": "The Computer Information Technology AS degree exposes students to applications programming, networking, systems administration, database management, information security, project management and web development."
+    },
+    {
+      "id": "2",
+      "src": "./imgs/pie-chart1.png",
+      "title": "Data Analytics & AI",
+      "description": "The Data Analytics Associate in Science degree (AS 2208) equips students with the skills to extract valuable insights from data, translate them into compelling visuals, and leverage machine learning techniques for informed decision-making"
+    },
+    {
+      "id": "3",
+      "src": "./imgs/keyboard1.png",
+      "title": "Software Development",
+      "description": "The Software Development AS degree is designed to prepare students for the dynamic world of application and web development. Students will use current technology to learn procedural and object-oriented programming or well as web design including client-side and server-side scripting."
+    },
+    {
+      "id": "4",
+      "src": "./imgs/stem1.png",
+      "title": "Network Systems Technology",
+      "description": "The Network Systems Technology AS degree prepares students for employment opportunities as network administrators, Information Security Analysts, and cloud architects."
+    }
+  ],
+  "faculty": [
+    {
+      "id": "1",
+      "name": "Amina Beharie",
+      "title": "BAS Advisor",
+      "email": "abeharie@broward.edu",
+      "phone": "(954) 201- 6827",
+      "location": "Central Campus, Building 13"
+    },
+    {
+      "id": "2",
+      "name": "Zack Gilson",
+      "title": "IT Advisor",
+      "email": "zgilson@broward.edu",
+      "phone": "(954) 201- 2015",
+      "location": "North Campus, Building 50"
+    },
+    {
+      "id": "3",
+      "name": "Toni Crooks",
+      "title": "AS BS Advisor",
+      "email": "tcrooks@broward.edu",
+      "phone": "954-201-3425",
+      "location": "Central Campus, Building 13"
+    },
+    {
+      "id": "4",
+      "name": "Mary Taboada-Gonzalez",
+      "title": "Professor & Advisor",
+      "email": "mtaboada@broward.edu",
+      "phone": "(954) 201- 6742",
+      "location": "Central Campus, Building 13"
+    }
+  ]
+}
