@@ -36,7 +36,7 @@ npm start
 
 After few secondes to few minutes my site will be deployed remeber to RUN "npm install" then "npm start" to view properly. 🚀
 
-### Report: Redesigning a College IT Department Website with React.js and Node.js
+### Report: Redesigning My College IT Department Website with React.js and Node.js
 
 #### Project Overview
 The project involved redesigning the IT department website for my college using **React.js** for the frontend and **Node.js** for the backend. The primary goal was to modernize the website’s design, improve its functionality, and provide an intuitive user experience.
