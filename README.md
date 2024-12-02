@@ -28,7 +28,7 @@ cd myITDepartmentApp
 npm install
 ```
 
-### Step 4: Run your app in dev mode
+### Step 4: Run wesbite and view locally
 
 ```
 npm start
