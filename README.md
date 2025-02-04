@@ -8,6 +8,8 @@ Used appropriate layout techniques (flexbox, grid) to create flexible and adapta
 Used React Hooks to manage state and side effects in functional components. Prioritizing a clear and intuitive navigation with the use of use appropriate typography and color schemes.
 Optimized for accessibility and fast loading times.
 
+---
+
 # Steps to clone this repository and run locally
 
 
