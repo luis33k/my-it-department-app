@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/myITDepartmentApp/static/css/main.1fa5d42e.css",
-    "main.js": "/myITDepartmentApp/static/js/main.e28bfeb8.js",
+    "main.css": "/myITDepartmentApp/static/css/main.35704669.css",
+    "main.js": "/myITDepartmentApp/static/js/main.32d02b84.js",
     "index.html": "/myITDepartmentApp/index.html",
-    "main.1fa5d42e.css.map": "/myITDepartmentApp/static/css/main.1fa5d42e.css.map",
-    "main.e28bfeb8.js.map": "/myITDepartmentApp/static/js/main.e28bfeb8.js.map"
+    "main.35704669.css.map": "/myITDepartmentApp/static/css/main.35704669.css.map",
+    "main.32d02b84.js.map": "/myITDepartmentApp/static/js/main.32d02b84.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fa5d42e.css",
-    "static/js/main.e28bfeb8.js"
+    "static/css/main.35704669.css",
+    "static/js/main.32d02b84.js"
   ]
 }
