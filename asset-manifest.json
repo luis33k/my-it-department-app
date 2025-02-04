@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-it-department-app/static/css/main.1fa5d42e.css",
+    "main.js": "/my-it-department-app/static/js/main.e28bfeb8.js",
+    "index.html": "/my-it-department-app/index.html",
+    "main.1fa5d42e.css.map": "/my-it-department-app/static/css/main.1fa5d42e.css.map",
+    "main.e28bfeb8.js.map": "/my-it-department-app/static/js/main.e28bfeb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fa5d42e.css",
+    "static/js/main.e28bfeb8.js"
+  ]
+}
