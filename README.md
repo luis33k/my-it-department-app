@@ -12,7 +12,6 @@ Optimized for accessibility and fast loading times.
 
 # Steps to clone this repository and run locally
 
-
 ### Step 1: Clone this repository
 
 ```
@@ -37,6 +36,8 @@ npm start
 ```
 
 After few secondes to few minutes my site app will be hosted locally remember to RUN "npm install" then "npm start" to view properly. 🚀
+
+---
 
 # Report: Redesigning My College IT Department Website with React.js and Node.js
 
