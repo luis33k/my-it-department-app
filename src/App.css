@@ -395,9 +395,9 @@ h2 {
     transition: height 0.3s ease;
 }
 
-/*.programs-section-card:hover::after{
+.programs-section-card:hover::after{
     height: 100%;
-}*/
+}
 
 .programs-section-img {
     display: flex;
